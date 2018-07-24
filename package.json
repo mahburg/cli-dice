@@ -1,0 +1,15 @@
+{
+  "name": "cli-dice",
+  "version": "1.0.0",
+  "description": "simple nodejs dice rolling package",
+  "main": "bin/cli.js",
+  "bin": {
+    "roll": "bin/cli.js"
+  },
+  "scripts": {
+    "roll1": "node bin/cli.js"
+  },
+  "author": "Lloyd Grubham",
+  "license": "ISC",
+  "dependencies": {}
+}
